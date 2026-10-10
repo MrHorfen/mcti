@@ -1,0 +1,17 @@
+# 生成的大体积预览卡片（可由脚本重新生成，不入库）
+example_card.html
+badge_card.html
+mockup_card.html
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地环境与密钥
+.env
+*.local
+
+# 早期实验素材（非最终人格图）
+assets/3D_felt_fabric_texture_*.png
+assets/Flat_2D_illustration__Chinese__*.png
+assets/abstract_soft_background_for_m_*.png

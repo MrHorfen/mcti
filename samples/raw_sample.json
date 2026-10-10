@@ -1,0 +1,14 @@
+{
+  "orders": [
+    {"hour": 23, "type": "delivery", "used_coupon": true},
+    {"hour": 1,  "type": "delivery", "used_coupon": true},
+    {"hour": 22, "type": "delivery", "used_coupon": false},
+    {"hour": 0,  "type": "pickup",   "used_coupon": true},
+    {"hour": 20, "type": "delivery", "used_coupon": true},
+    {"hour": 12, "type": "dinein",   "used_coupon": false},
+    {"hour": 2,  "type": "delivery", "used_coupon": true},
+    {"hour": 21, "type": "delivery", "used_coupon": true}
+  ],
+  "account": {"points": 3200},
+  "my_coupons": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+}
