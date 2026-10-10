@@ -78,3 +78,12 @@ mcti/
 ---
 
 ⭐ 觉得好玩？点个 Star 让更多麦门信徒看到！
+
+## 🎯 真机演示（麦当劳 MCP 真实数据）
+
+用大赛发放的麦当劳 MCP Token 拉取真实订单 / 积分 / 券，套本作品管道生成的工牌分享卡示例：
+
+- [`real_badge_card.html`](real_badge_card.html) — 真机数据生成的「门店自助王」工牌卡（演示账号数据，仅供娱乐）
+- [`run_real.py`](run_real.py) — 一键拉取 MCP 真实数据并生成卡片的脚本（依赖 `D:/workbuddy_cache/temp/mcp_raw.json` 本地 dump）
+
+> 注：演示 Token 为大赛沙盒账号（仅 6 笔午市到店订单），非个人真实消费史；接入本人账号 Token 即出本人卡。
